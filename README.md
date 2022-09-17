@@ -1,18 +1,29 @@
-## Getting Started
+# Polygon Area Calculator
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<p>This application will calculate the area of (some) Common polygons:</p>
 
-## Folder Structure
+* Equilateral Triangle
+* Square
+* Rectangle
+  
+<p>...and some other polygons like:</p>
 
-The workspace contains two folders by default, where:
+* Pentagon
+* Hexagon
+* Heptagon
+* Octogon
+* Nonagon
+* Decagon
+* Hendecagon
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+# Installation
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Maybe, eh. It's not worth it right now.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+# Usage
 
-## Dependency Management
+If you do end up compling it yourself, you just need to enter either Triangle, Square, Rectangle or Polygon, and follow the prompt. You'll get an area calculation. It loops so you don't have to keep re-run it every time you want to use it.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+# License
+
+GNU General Public License v3.0
